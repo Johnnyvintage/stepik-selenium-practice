@@ -1,2 +1,1 @@
-Initial commit was succesfully executed.
-It is the first time of course we use Git
+It is the repository with homework scripts for course ["Автоматизация тестирования с помощью Selenium и Python"](https://stepik.org/course/575)
